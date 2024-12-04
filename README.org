@@ -2,6 +2,9 @@
 
 This is my personal theme setup, inspired by Swiss alps.
 
+[[file:screenshot.png]]
+
+
 * Disclaimer
 While I have the code setup shared here, I actually do not pull down the theme from this remote repository. The main purpose of this theme was to set up something I don't have any external dependency, so that I can have a same look and feel with bare Emacs session without any extra setup.
 
