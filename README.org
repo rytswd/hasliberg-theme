@@ -11,3 +11,7 @@ While I have the code setup shared here, I actually do not pull down the theme f
 For that reason, this is only a mirror of what I manage separately, and may not be in the most up-to-date state.
 
 I may consider managing this more in public in future, but again, this is not meant to suffice all different use cases, but specifically designed to my liking.
+
+
+* Code with Literate Programming
+All the code for Hasliberg Theme is managed by literate programming with ~hasliberg-theme.org~. This should have clarification on how and why I made the theme with the current implementation.
